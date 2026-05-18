@@ -88,8 +88,3 @@ Not just wrappers around APIs.
 
 ---
 
-## Connect
-
-LinkedIn: [your-linkedin]  
-Portfolio: [your-portfolio]  
-Email: ujwalshetty625@gmail.com
