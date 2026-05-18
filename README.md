@@ -152,31 +152,6 @@ Real-time classification and reasoning systems inspired by modern fintech, fraud
 
 ---
 
-# Engineering Philosophy
-
-## 01 — Build systems that scale conceptually, not just technically
-
-I care about software being understandable, maintainable, and architecturally meaningful — not just functional.
-
----
-
-## 02 — Think deeply before building
-
-A surprising amount of mediocre engineering comes from people touching the keyboard before understanding the problem.
-
----
-
-## 03 — Clarity is a competitive advantage
-
-Whether it's code, documentation, architecture, or communication — clarity compounds.
-
----
-
-## 04 — Growth comes from pressure
-
-Hackathons, debugging sessions, difficult projects, broken deployments, failed ideas — those experiences teach faster than comfort ever will.
-
----
 
 # Beyond The Keyboard
 
